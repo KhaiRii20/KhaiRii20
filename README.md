@@ -69,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=9999&color=000000&center=true&vCenter=true&width=400&height=40&lines=[+MULTIPLAYER+]" alt="Connect Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=40&lines=[+MULTIPLAYER+]" alt="Connect Header" />
   <br/>
   <a href="https://github.com/KhaiRii20">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
