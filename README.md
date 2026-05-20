@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.redd.it/dp2kuk914o9y.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.redd.it/dp2kuk914o9y.gif">
-    <img width="100%" src="https://i.redd.it/dp2kuk914o9y.gif" alt="Pixel Art Cyberpunk Header" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/KhaiRii20/KhaiRii20/main/assets/header.gif" alt="Pixel Art Cyberpunk Header" />
 </div>
 
 <br/>
