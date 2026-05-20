@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/KhaiRii20/KhaiRii20/main/assets/header.gif" alt="Pixel Art Cyberpunk Header" />
+  <img width="100%" src="https://raw.githubusercontent.com/KhaiRii20/KhaiRii20/main/assets/header.gif" alt="Pixel Art Traditional Architecture Header" />
 </div>
 
 <br/>
