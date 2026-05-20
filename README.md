@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/KhaiRii20/KhaiRii20/main/assets/pixel-header.gif" alt="Pixel Art Header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.redd.it/dp2kuk914o9y.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.redd.it/dp2kuk914o9y.gif">
+    <img width="100%" src="https://i.redd.it/dp2kuk914o9y.gif" alt="Pixel Art Cyberpunk Header" />
+  </picture>
 </div>
 
 <br/>
@@ -45,10 +49,10 @@
 
 <div align="center">
   <a href="https://github.com/KhaiRii20">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KhaiRii20&show_icons=true&bg_color=FFCC00&title_color=000000&icon_color=000000&text_color=000000&border_color=000000&border_radius=0&hide_border=false" alt="Statistik Aktivitas" />
+    <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=KhaiRii20&show_icons=true&bg_color=FFCC00&title_color=000000&icon_color=000000&text_color=000000&border_color=000000&border_radius=0&hide_border=false" alt="Statistik Aktivitas" />
   </a>
   <a href="https://github.com/KhaiRii20">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiRii20&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=000000&border_radius=0&hide_border=false" alt="Distribusi Bahasa" />
+    <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KhaiRii20&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=000000&border_radius=0&hide_border=false" alt="Distribusi Bahasa" />
   </a>
 </div>
 
