@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaiRii20&bg_color=FFFFFF&color=000000&line=FF3366&point=000000&area=true&hide_border=false&border_radius=0" width="100%" alt="Grafik Komit Repositori" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaiRii20&bg_color=000000&color=FFFFFF&line=FF3366&point=FFFFFF&area=true&hide_border=false&border_radius=0" width="100%" alt="Grafik Komit Repositori" />
 </div>
 
 <br/>
