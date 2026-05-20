@@ -9,7 +9,7 @@
   
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=24&pause=2000&color=000000&background=FF3366&center=true&vCenter=true&width=800&height=40&lines=LVL+99+FULLSTACK+DEVELOPER+|+CYBERSECURITY;PRESS+START+TO+CONTINUE..." alt="Subtitle Module" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=24&pause=2000&color=000000&background=FF3366&center=true&vCenter=true&width=800&height=40&lines=LVL+99+FULLSTACK+DEVELOPER+|+AI/ML Enthusiast;PRESS+START+TO+CONTINUE..." alt="Subtitle Module" />
 </div>
 
 <br/>
