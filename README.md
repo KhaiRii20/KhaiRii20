@@ -74,7 +74,7 @@
   <a href="https://github.com/KhaiRii20">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/KhaiRii20">
+  <a href="https://instagram.com/dfkhairiii">
     <img src="https://img.shields.io/badge/Instagram-FF3366?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/737648825677774910">
