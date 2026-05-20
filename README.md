@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/TypeScript-00E5FF?style=for-the-badge&logo=typescript&logoColor=000000" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-FF3366?style=for-the-badge&logo=python&logoColor=000000" alt="Python" />
   <img src="https://img.shields.io/badge/Java-FFCC00?style=for-the-badge&logo=openjdk&logoColor=000000" alt="Java" />
-  <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=000000" alt="C" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" alt="C++" />
   <br/>
   
   <img src="https://img.shields.io/badge/Laravel-FF3366?style=for-the-badge&logo=laravel&logoColor=000000" alt="Laravel" />
